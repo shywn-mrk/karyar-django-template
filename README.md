@@ -9,7 +9,7 @@ Make sure you have Python >= 3.9 installed before following these steps.
 1 - Clone the project:
 
 ```bash
-git clone https://github.com/shywn-mrk/capsule.git
+git clone [https://github.com/shywn-mrk/capsule.git](https://github.com/shywn-mrk/karyar-django-template.git)
 ```
 
 2 - Create a virtual environment:
