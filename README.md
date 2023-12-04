@@ -4,6 +4,7 @@ For each pre-commit error you'll lose 0.5 of each exercise score so be careful. 
 Try not to lose those scores.
 
 ## Installation
+
 Make sure you have Python >= 3.9 installed before following these steps.
 
 1 - Clone the project:
@@ -20,13 +21,13 @@ python -m venv env
 
 3 - Activate the virtual environment:
 
-- Windows:
+-   Windows:
 
 ```bash
 env/Scripts/activate
 ```
 
-- Mac/Linux:
+-   Mac/Linux:
 
 ```bash
 source env/bin/activate
